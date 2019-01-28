@@ -1,16 +1,13 @@
-# _Track-suggester_
+# Word-play_
 
-#### _A programming language track-suggester webpage, 10/19/18_
 
-#### By _**Maxwell Dubin**_
+#### By _**James Cho**_
 
-## Description
-
-_A webpage which gathers input from the user and uses branching to suggest an appropriate programming language_
 
 ## Setup/Installation Requirements
 
-* _No setup required_
+* _Clone repository
+* _open index.html
 
 ## Known Bugs
 
@@ -24,12 +21,10 @@ _Please contact me through Github with questions or concerns_
 
 _HTML, CSS, Bootstrap, jQuery, JavaScript_
 
-## GH-pages link:
 
-maxdhs.github.io/track-suggester
 
 ### License
 
 *Free to share*
 
-Copyright (c) 2016 **_Maxwell Dubin_**
+Copyright (c) 2016 **_James Cho_**

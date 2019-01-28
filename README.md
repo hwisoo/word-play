@@ -27,4 +27,4 @@ _HTML, CSS, Bootstrap, jQuery, JavaScript_
 
 *Free to share*
 
-Copyright (c) 2016 **_James Cho_**
+Copyright (c) 2018 **_James Cho_**
